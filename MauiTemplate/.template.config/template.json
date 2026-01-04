@@ -1,0 +1,14 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "rkitamu",
+  "classifications": [ "MAUI", "Mobile" ],
+  "name": "NET MAUI App (CommunityToolkit)",
+  "identity": "My.Maui.Template.CTK",
+  "shortName": "maui-ctk",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "MauiApp.Starter",
+  "preferNameDirectory": true
+}
